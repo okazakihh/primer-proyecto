@@ -1,0 +1,91 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Cobros v 3.00
+</name>
+</assembly>
+<members>
+<member name="T:control_de_cuentas.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:control_de_cuentas.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:control_de_cuentas.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:control_de_cuentas.My.Resources.Resources._1457188">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:control_de_cuentas.My.Resources.Resources._296382">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:control_de_cuentas.My.Resources.Resources._7">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:control_de_cuentas.My.Resources.Resources.Actions_edit_clear_list_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:control_de_cuentas.My.Resources.Resources.Actions_edit_clear_list_icon1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:control_de_cuentas.My.Resources.Resources.Excel_2013_23480">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:control_de_cuentas.My.Resources.Resources.exportar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:control_de_cuentas.My.Resources.Resources.fondo_tecnologico_brillante_azul_36402_430">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:control_de_cuentas.My.Resources.Resources.kisspng_computer_icons_desktop_wallpaper_clip_art_clear_icon_5b488733e83901_5570402115314798599512">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:control_de_cuentas.My.Resources.Resources.png_transparent_hewlett_packard_printer_printing_computer_icons_button_hewlett_packard_blue_angle_ink">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:control_de_cuentas.My.Resources.Resources.que_es_un_reporte">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:control_de_cuentas.My.Resources.Resources.rwcibo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:control_de_cuentas.My.Resources.Resources.vieu">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,95 @@
+D:\vb\Proyecto Francisco\control de cuentas\control de cuentas\obj\Debug\control_de_cuentas.Form1.resources
+D:\vb\Proyecto Francisco\control de cuentas\control de cuentas\obj\Debug\control_de_cuentas.Resources.resources
+D:\vb\Proyecto Francisco\control de cuentas\control de cuentas\obj\Debug\control de cuentas.vbproj.GenerateResource.cache
+D:\vb\Proyecto Francisco\control de cuentas\control de cuentas\obj\Debug\control de cuentas.vbproj.CoreCompileInputs.cache
+D:\vb\Proyecto Francisco\control de cuentas\control de cuentas\bin\Debug\cuentaslocalDB.exe.config
+D:\vb\Proyecto Francisco\control de cuentas\control de cuentas\bin\Debug\cuentaslocalDB.exe
+D:\vb\Proyecto Francisco\control de cuentas\control de cuentas\bin\Debug\cuentaslocalDB.pdb
+D:\vb\Proyecto Francisco\control de cuentas\control de cuentas\bin\Debug\cuentaslocalDB.xml
+D:\vb\Proyecto Francisco\control de cuentas\control de cuentas\obj\Debug\cuentaslocalDB.exe
+D:\vb\Proyecto Francisco\control de cuentas\control de cuentas\obj\Debug\cuentaslocalDB.xml
+D:\vb\Proyecto Francisco\control de cuentas\control de cuentas\obj\Debug\cuentaslocalDB.pdb
+D:\vb\Proyecto Francisco\control de cuentas\control de cuentas\bin\Debug\cuentaslocalDB.exe.manifest
+D:\vb\Proyecto Francisco\control de cuentas\control de cuentas\bin\Debug\cuentaslocalDB.application
+D:\vb\Proyecto Francisco\control de cuentas\control de cuentas\obj\Debug\control de cuentas.vbprojAssemblyReference.cache
+D:\vb\Proyecto Francisco\control de cuentas\control de cuentas\obj\Debug\cuentaslocalDB.exe.manifest
+D:\vb\Proyecto Francisco\control de cuentas\control de cuentas\obj\Debug\cuentaslocalDB.application
+D:\vb\Proyecto Francisco\control de cuentas v.2.00\control de cuentas\obj\Debug\control de cuentas.vbprojAssemblyReference.cache
+D:\vb\Proyecto Francisco\control de cuentas v.2.00\control de cuentas\obj\Debug\control_de_cuentas.Form1.resources
+D:\vb\Proyecto Francisco\control de cuentas v.2.00\control de cuentas\obj\Debug\control_de_cuentas.confirmacion.resources
+D:\vb\Proyecto Francisco\control de cuentas v.2.00\control de cuentas\obj\Debug\control_de_cuentas.Resources.resources
+D:\vb\Proyecto Francisco\control de cuentas v.2.00\control de cuentas\obj\Debug\control de cuentas.vbproj.GenerateResource.cache
+D:\vb\Proyecto Francisco\control de cuentas v.2.00\control de cuentas\obj\Debug\control de cuentas.vbproj.CoreCompileInputs.cache
+D:\vb\Proyecto Francisco\control de cuentas v.2.00\control de cuentas\bin\Debug\cuentaslocalDB v 2.00.exe.config
+D:\vb\Proyecto Francisco\control de cuentas v.2.00\control de cuentas\bin\Debug\cuentaslocalDB v 2.00.exe.manifest
+D:\vb\Proyecto Francisco\control de cuentas v.2.00\control de cuentas\bin\Debug\cuentaslocalDB v 2.00.application
+D:\vb\Proyecto Francisco\control de cuentas v.2.00\control de cuentas\bin\Debug\cuentaslocalDB v 2.00.exe
+D:\vb\Proyecto Francisco\control de cuentas v.2.00\control de cuentas\bin\Debug\cuentaslocalDB v 2.00.pdb
+D:\vb\Proyecto Francisco\control de cuentas v.2.00\control de cuentas\bin\Debug\cuentaslocalDB v 2.00.xml
+D:\vb\Proyecto Francisco\control de cuentas v.2.00\control de cuentas\obj\Debug\cuentaslocalDB v 2.00.exe.manifest
+D:\vb\Proyecto Francisco\control de cuentas v.2.00\control de cuentas\obj\Debug\cuentaslocalDB v 2.00.application
+D:\vb\Proyecto Francisco\control de cuentas v.2.00\control de cuentas\obj\Debug\cuentaslocalDB v 2.00.exe
+D:\vb\Proyecto Francisco\control de cuentas v.2.00\control de cuentas\obj\Debug\cuentaslocalDB v 2.00.xml
+D:\vb\Proyecto Francisco\control de cuentas v.2.00\control de cuentas\obj\Debug\cuentaslocalDB v 2.00.pdb
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\bin\Debug\cuentaslocalDB v 2.00.exe.config
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\bin\Debug\cuentaslocalDB v 2.00.exe.manifest
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\bin\Debug\cuentaslocalDB v 2.00.application
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\bin\Debug\cuentaslocalDB v 2.00.exe
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\bin\Debug\cuentaslocalDB v 2.00.pdb
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\bin\Debug\cuentaslocalDB v 2.00.xml
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\obj\Debug\control de cuentas.vbprojAssemblyReference.cache
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\obj\Debug\control_de_cuentas.Form1.resources
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\obj\Debug\control_de_cuentas.confirmacion.resources
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\obj\Debug\control_de_cuentas.Resources.resources
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\obj\Debug\control de cuentas.vbproj.GenerateResource.cache
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\obj\Debug\control de cuentas.vbproj.CoreCompileInputs.cache
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\obj\Debug\cuentaslocalDB v 2.00.exe.manifest
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\obj\Debug\cuentaslocalDB v 2.00.application
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\obj\Debug\cuentaslocalDB v 2.00.exe
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\obj\Debug\cuentaslocalDB v 2.00.xml
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\obj\Debug\cuentaslocalDB v 2.00.pdb
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\obj\Debug\control_de_cuentas.impresion.resources
+D:\vb\Proyecto Francisco\control de cuentas v.3.00\control de cuentas\obj\Debug\control de cuentas.vbproj.CopyComplete
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\control de cuentas.vbprojAssemblyReference.cache
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\control_de_cuentas.Form1.resources
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\control_de_cuentas.confirmacion.resources
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\control_de_cuentas.Resources.resources
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\control de cuentas.vbproj.GenerateResource.cache
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\control de cuentas.vbproj.CoreCompileInputs.cache
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\control de cuentas.vbproj.CopyComplete
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\control_de_cuentas.Recibo.resources
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\bin\Debug\Cobros v 3.00.exe.config
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\bin\Debug\Cobros v 3.00.exe.manifest
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\bin\Debug\Cobros v 3.00.application
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\bin\Debug\Cobros v 3.00.exe
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\bin\Debug\Cobros v 3.00.pdb
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\bin\Debug\Cobros v 3.00.xml
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\Cobros v 3.00.exe.manifest
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\Cobros v 3.00.application
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\Cobros v 3.00.exe
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\Cobros v 3.00.xml
+D:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\Cobros v 3.00.pdb
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\bin\Debug\Cobros v 3.00.exe.config
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\bin\Debug\Cobros v 3.00.exe.manifest
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\bin\Debug\Cobros v 3.00.application
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\bin\Debug\Cobros v 3.00.exe
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\bin\Debug\Cobros v 3.00.pdb
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\bin\Debug\Cobros v 3.00.xml
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\control de cuentas.vbprojAssemblyReference.cache
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\control_de_cuentas.Form1.resources
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\control_de_cuentas.confirmacion.resources
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\control_de_cuentas.Resources.resources
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\control_de_cuentas.Recibo.resources
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\control de cuentas.vbproj.GenerateResource.cache
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\control de cuentas.vbproj.CoreCompileInputs.cache
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\Cobros v 3.00.exe.manifest
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\Cobros v 3.00.application
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\control de cuentas.vbproj.CopyComplete
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\Cobros v 3.00.exe
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\Cobros v 3.00.xml
+E:\vb\Proyecto Francisco\control de cuentas v.3.00 - copia\control de cuentas\obj\Debug\Cobros v 3.00.pdb
